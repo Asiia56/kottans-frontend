@@ -7,7 +7,10 @@
 As for me it was interesting to get to know a new product. Unfortunately, I did not have any Linux devices, so I cannot try most of the described functions.    
    
    ##### Linux CLI and Networking
-   
+I have learned how to work with Linux before and it was interesting to refresh knowledge
+
+![screenshot of sample](https://s8.hostingkartinok.com/uploads/images/2018/12/a30490925c0f1acb4717ae0f2948681c.png widh="400px")
+
    ##### VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
