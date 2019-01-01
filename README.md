@@ -26,6 +26,8 @@ I have previously passed some courses on HTML Academy, so I have just added a sc
 ##### Responsive Web Design
 
 ##### JavaScript Basics
+It was a quite borring to do the first part of the course as I had learned previously all this basic information. Nevertheless it is not completely waste of time. Now I have refreshed my knowledges. 
+
 
 ##### Document Object Model - practice
 
