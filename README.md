@@ -27,7 +27,8 @@ I have previously passed some courses on HTML Academy, so I have just added a sc
 
 ##### JavaScript Basics
 It was a quite borring to do the first part of the course as I had learned previously all this basic information. Nevertheless it is not completely waste of time. Now I have refreshed my knowledges. 
-
+<p align="center"><img src="https://s8.hostingkartinok.com/uploads/images/2019/01/9172d41f8a1abe9b572ca9a3104d8069.jpg" width="400" alt="udacity_intro_js">
+</p>
 
 ##### Document Object Model - practice
 
